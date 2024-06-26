@@ -16,7 +16,7 @@ Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Re
 10015,15-01-2024,Clothing,North Face Down Jacket,2,249.99,499.98,Asia,Debit Card
 10016,16-01-2024,Books,"Salt, Fat, Acid, Heat by Samin Nosrat",3,35.99,107.97,North America,Credit Card
 10017,17-01-2024,Beauty Products,Dyson Supersonic Hair Dryer,1,399.99,399.99,Europe,PayPal
-10018,18-01-2024,Sports,Manduka PRO Yoga Mat,4,119.99,479.96,Asia,Credit Card
+10018,18-01-2024,Sports,Manduka PRO Yoga Mat,add,119.99,479.96,Asia,Credit Card
 10019,19-01-2024,Electronics,Garmin Forerunner 945,2,499.99,999.98,North America,Credit Card
 10020,20-01-2024,Home Appliances,Ninja Professional Blender,1,99.99,99.99,Europe,PayPal
 10021,21-01-2024,Clothing,Zara Summer Dress,3,59.99,179.97,Asia,Debit Card
